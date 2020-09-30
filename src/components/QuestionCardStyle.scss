@@ -1,0 +1,15 @@
+Button.answer {
+    width: 80%;
+    background-color: azure;
+    color: #000;
+    margin: 10px;
+}
+
+Button.answer:hover {
+    background-color: darkgrey;
+    color: #000;
+}
+
+Button.answer:disabled {
+    color: lightgrey;
+}
